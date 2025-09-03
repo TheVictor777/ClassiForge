@@ -1,0 +1,8 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+
+# Datasets (should be downloaded by user)
+Datasets/
